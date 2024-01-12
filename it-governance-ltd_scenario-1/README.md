@@ -2,7 +2,13 @@
 Watch and participate along at: https://www.youtube.com/watch?v=k7MKERqbJWc
 
 
-
+# Table of Content
+- [Scenario Background](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#scenario-background)
+- [Preparation](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#preparation)
+- [Identification](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#identification)
+- [Containment and Eradacation](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#identification)
+- [Recovery](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#identification)
+- [Lessons Learned](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1#lessons-learned)
 
 # Scenario 1: Phishing
 

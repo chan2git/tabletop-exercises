@@ -25,5 +25,4 @@ Even as a solo-participant, there is a lot of value to be gained in engaging in 
 
 ## Collections
 
-* [IT Governance Ltd | Scenario: Phishing]()
-* [IT Governance Ltd | Scenario: Ransomware]()
+* [IT Governance Ltd | Scenario: Phishing](https://github.com/chan2git/tabletop-exercises/tree/main/it-governance-ltd_scenario-1)
