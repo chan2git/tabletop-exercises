@@ -45,3 +45,60 @@ This exercise omits a Preparation phase. See the Lessons Learned phase to see ho
 
 - After speaking with Bob, he stated that he had a similar email and that he submitted his credentials. Bob noted that the URL did not appear to work.
 
+
+Based on the initial triage results, it is determined that this reported incident requires the IR team to be mobilized. 
+Based on the facts gathered, the incident is rated as a P3 (due to incident appearing to only affect one isolated department; business operating as usual). The IR team agrees that a digital investigation is needed to gauge the impact/risk to the organization.
+
+
+**Information to find out**
+
+- Who else experienced a similar incident?
+
+- Who else submitted credentials?
+
+- What happens to the credentials when it is submitted to the link?
+
+
+**Quiz 2: During this digital investigation, what would you consider? Select all that applies.**
+
+:x: Working on the original devices/emails
+
+:white_check_mark: Chain of Custody
+
+:white_check_mark: Setting and following the objectives of the investigation
+
+:white_check_mark: Keeping notes
+
+
+**The Investigation key fact results are**
+- Origin
+    - The initial email was sent to Bob 2 months ago.
+
+    - The initial email was sent from a Gmail account.
+
+    - The initial email contained the same URL as the one sent to HR.
+
+- URL
+    - Fake link that led to a counterfeit O365 login page.
+
+    - No payload was downloaded when link is clicked or page visited.
+
+- Other
+    - All of HR received an email from Bob
+
+    - Half of HR submitted their credentials to fake O365 login page
+
+    - Incident appears isolated to HR department only
+
+
+**Quiz 3: According to NIST, what should be the next stage? Select one.**
+
+:x: Prepare
+
+:white_check_mark: Containment and Eradication
+
+:x: Post incident
+
+:x: Recovery
+
+:x: Detection and analysis
