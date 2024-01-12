@@ -185,6 +185,8 @@ What detections could be created so that when a similar event occurs, the compan
 - Detect when MFA fails repeatedly, or if MFA involves an unusual device/contact number
 - Detect when a common identifier (device, IP address, etc.) is found to be logging into multiple employee accounts
 - Determine what is an acceptable MTTD
+- Detect when a malicious link or payload is embedded in the body message or attachment
+- Detect when an employee accesses an unusual or malicious domain
 
 
 Does the company implement SOAR tools and technology? How could measures be automated to cut off threat actor before triaging even starts?
