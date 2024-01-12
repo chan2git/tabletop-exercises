@@ -30,13 +30,13 @@ This exercise omits a Preparation phase. See the Lessons Learned phase to see ho
 
 **Quiz #1: With regards to this scenario, how would you verify that a security incident has occured? Select all that applies.**
 
-[:white_check_mark:] Ask a senior manager to contact Bob to establish more information about details around sending the emails to his team
+:white_check_mark: Ask a senior manager to contact Bob to establish more information about details around sending the emails to his team
 
-[:white_check_mark:] The IT service desk should speak to the HR team to discover more details regarding the email received
+:white_check_mark: The IT service desk should speak to the HR team to discover more details regarding the email received
 
-[] Contact senior team as this is not IT’s responsibility
+:x: Contact senior team as this is not IT’s responsibility
 
-[:white_check_mark:] Review the email itself
+:white_check_mark: Review the email itself
 
 
 **Facts gathered from initial triage**
